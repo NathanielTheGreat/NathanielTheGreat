@@ -79,13 +79,13 @@
 
 <p style="color: #ffffff; line-height: 1.8; margin: 0; background-color: #0d0d0d;">
 <font color="#ffffff">
-˚ ༘ ೀ⋆｡˚ <b>Games & Media:</b> Dead Plate, Genshin Impact, FNAF, Alien Stage (ALNST) <br/>
+˚ ༘ ೀ⋆｡˚ <b>Games & Media:</b> Dead Plate, FNAF, Alien Stage (ALNST) <br/>
 ˚ ༘ ೀ⋆｡˚ <b>Shows & Anime:</b> TGCF, Demon Slayer, Osora | <i>Currently Watching:</i> Castlevania <br/>
 ˚ ༘ ೀ⋆｡˚ <b>Music Artists:</b> bbno$, Måneskin, Waitress & more <br/>
 ˚ ༘ ೀ⋆｡˚ <b>Fav Songs:</b> Run Rabbit, mosi mosi?, AiAiA, One Day to Live
 </font>
 </p>
-
+<p style="color: #ffffff; line-height: 1.8; margin: 0; background-color: #0d0d0d;"><font color="#ffffff">I also play genshin, but on the american server mainly</font></p>
 <hr style="border-top: 1px dashed #4a0000; width: 80%; margin: 20px 0;" />
 
 <h3 style="color: #ff2222; background-color: #0d0d0d;"><font color="#ff2222">🦇 𝒯 𝒹𝒾𝒹 𝒶 𝓉𝑒𝓈𝓉 𝒶𝓃𝒹 𝒯'𝓂 𝒽𝒾𝓂</font></h3>
