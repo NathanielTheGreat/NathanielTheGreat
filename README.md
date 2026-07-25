@@ -11,7 +11,7 @@
 
 <h1 style="color: #ff2222; background-color: #0a0a0a;"><font color="#ff2222">⚰️ 𝕊𝕒𝕘𝕖 / 𝕄𝕒𝕣𝕔𝕖𝕝𝕝𝕦𝕤 ⚰️</font></h1>
 
-<p style="color: #cccccc; background-color: #0a0a0a;"><font color="#cccccc"><i>programming student ‧ artist ‧ music enthusiast xP</i></font></p>
+<p style="color: #cccccc; background-color: #0a0a0a;"><font color="#cccccc"><i>monster addict  ‧ student ‧ music enthusiast xP</i></font></p>
 
 <p style="background-color: #0a0a0a;">
 <img src="https://img.shields.io/badge/Discord-tricky__mag__pie-2b0000?style=for-the-badge&logo=discord&logoColor=cc0000" />
@@ -67,7 +67,7 @@
 
 <p style="color: #ffffff; line-height: 1.8; margin: 0; background-color: #0d0d0d;">
 <font color="#ffffff">
-☆⋆｡𖦹°‧★ <b>Focus:</b> Studying programming <br/>
+☆⋆｡𖦹°‧★ <b>Focus:</b> Surviving school <br/>
 ☆⋆｡𖦹°‧★ <b>Hobbies:</b> Drawing & trying to learn languages <br/>
 ☆⋆｡𖦹°‧★ <b>Vibe:</b> Probably listening to music xP
 </font>
